@@ -2,6 +2,17 @@
 /// edit this list to add or remove portfolio images
 /// -----------------------------------------------------------------------------------
 const images = [
+  "AniMali-image1-500.png",
+  "AniMali-image2-500.png",
+  "AniMali-image3-500-01.png",
+  "AniMali-image4-500.png",
+  "Busybee-image1-500.png",
+  "busybee-image2-500.png",
+  "Busybee-image3-500.png",
+  "Busybee-image4-500.png",
+  "cattree-image1-500.png",
+  "cattree-image2-500.png",
+  "cattree-image3-500.png",
   "ONS-image1-500.png",
   "ONS-image2-500.png",
   "ONS-image3-500.png",
@@ -17,6 +28,8 @@ const images = [
   "scoop-image1-500.png",
   "scoop-image2-500.png",
   "scoop-image3-500.png",
+  "zoo-image1-500.png",
+  "zoo-image2-500.png"
 ]
 
 
